@@ -1,5 +1,28 @@
 # Gatsby Plugin: Disable 404
 
+## Install
+
+```bash
+# With Yarn
+$ > yarn add -D gatsby-disable-404
+
+# With NPM
+$ > npm install --save-dev gatsby-disable-404
+```
+
+### Configuration
+
+```js
+// gatsby-config.js
+
+module.exports = {
+  siteMetadata: {
+    title: "Gatsby Default Starter"
+  },
+  plugins: ["gatsby-disable-404"]
+};
+```
+
 Disable `/404` and `/dev-404-page` pages.
 
 ## License
