@@ -1,5 +1,7 @@
 # Gatsby Plugin: Disable 404
 
+Disable `/404` and `/dev-404-page` pages.
+
 ## Install
 
 ```bash
@@ -22,8 +24,6 @@ module.exports = {
   plugins: ["gatsby-disable-404"]
 };
 ```
-
-Disable `/404` and `/dev-404-page` pages.
 
 ## License
 
