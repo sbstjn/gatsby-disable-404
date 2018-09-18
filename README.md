@@ -1,5 +1,9 @@
 # Gatsby Plugin: Disable 404
 
+[![MIT License](https://badgen.now.sh/badge/License/MIT/blue)](https://github.com/sbstjn/gatsby-disable-404/blob/master/LICENSE.md)
+[![CircleCI](https://badgen.net/circleci/github/sbstjn/gatsby-disable-404)](https://circleci.com/gh/sbstjn/gatsby-disable-404)
+[![NPM](https://badgen.net/npm/v/gatsby-disable-404)](https://www.npmjs.com/package/gatsby-disable-404)
+
 Disable `/404` and `/dev-404-page` pages.
 
 ## Install
