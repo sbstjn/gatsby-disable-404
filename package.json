@@ -19,7 +19,8 @@
     "prebuild": "rimraf ./gatsby-node.js"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "gatsby-plugin",
   ],
   "author": "Sebastian Müller <mail@sbstjn.com>",
   "license": "MIT",
