@@ -1,5 +1,6 @@
 # Gatsby Plugin: Disable 404
 
+
 [![MIT License](https://badgen.now.sh/badge/License/MIT/blue)](https://github.com/sbstjn/gatsby-disable-404/blob/master/LICENSE.md)
 [![CircleCI](https://badgen.net/circleci/github/sbstjn/gatsby-disable-404)](https://circleci.com/gh/sbstjn/gatsby-disable-404)
 [![NPM](https://badgen.net/npm/v/gatsby-disable-404)](https://www.npmjs.com/package/gatsby-disable-404)
@@ -29,7 +30,7 @@ module.exports = {
 };
 ```
 
-## License
+### License
 
 Feel free to use the code, it's released using the [MIT license](LICENSE.md).
 
@@ -37,4 +38,4 @@ Feel free to use the code, it's released using the [MIT license](LICENSE.md).
 
 You are welcome to contribute to this project! 😘
 
-To make sure you have a pleasant experience, please read the [code of conduct](CODE_OF_CONDUCT.md). It outlines core values and beliefs and will make working together a happier experience.
+To make sure you have a pleasant experience, Please read the [code of conduct](CODE_OF_CONDUCT.md). It outlines core values and beliefs and will make working together a happier experience.
